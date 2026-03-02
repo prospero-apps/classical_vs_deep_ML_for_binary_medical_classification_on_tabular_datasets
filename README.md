@@ -1,0 +1,2 @@
+# classical_vs_deep_ML_for_binary_medical_classification_on_tabular_datasets
+a comprehensive comparison of classical machine learning algorithms and deep learning approaches for binary classification on medical tabular datasets
