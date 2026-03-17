@@ -1,0 +1,5 @@
+Dataset,Comparison,Friedman χ²,Friedman p,Friedman Sig,Wilcoxon W,Wilcoxon p,Wilcoxon Sig,Cohen's d,Effect Size
+Breast Cancer,MLP (PyTorch) vs Logistic Regression,29.314,0.0001,Significant,1.0,0.5,No,0.109,negligible
+Diabetes,MLP (PyTorch) vs Logistic Regression,12.343,0.0547,Not significant,7.0,1.0,No,-0.206,small
+Heart,MLP (PyTorch) vs Gradient Boosting,16.31,0.0122,Significant,0.0,0.0625,No,-0.926,large
+Stroke,MLP (PyTorch) vs Logistic Regression,25.371,0.0003,Significant,0.0,0.0625,No,-1.206,large

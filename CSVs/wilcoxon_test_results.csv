@@ -1,0 +1,5 @@
+Dataset,Model 1,Model 2,Mean 1,Mean 2,Difference,W-statistic,p-value,Significant (α=0.05),Interpretation
+Breast Cancer,MLP (PyTorch),Logistic Regression,0.9962,0.9956,+0.0006,1.00,0.5000,No,No significant difference
+Diabetes,MLP (PyTorch),Logistic Regression,0.8261,0.8333,-0.0072,7.00,1.0000,No,No significant difference
+Heart,MLP (PyTorch),Gradient Boosting,0.7984,0.8012,-0.0028,0.00,0.0625,No,No significant difference
+Stroke,MLP (PyTorch),Logistic Regression,0.8105,0.8386,-0.0281,0.00,0.0625,No,No significant difference

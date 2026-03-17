@@ -1,0 +1,2 @@
+Best_Model_AP,Best_AP_Value,MLP_AP,LogReg_AP,AP_Wilcoxon_p,AP_Cohen_d,MLP_vs_Best_AP_%,LogReg_vs_Best_AP_%
+Logistic Regression,0.201,0.1897,0.201,0.1875,-0.3336773910568946,-5.6218905472636855,0.0
